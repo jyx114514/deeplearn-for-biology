@@ -1,0 +1,217 @@
+[
+  {
+    "path": "chapter_03_dna/ARID3_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ARID3_test_sequences.csv",
+    "expected_bytes": 1926685
+  },
+  {
+    "path": "chapter_03_dna/ARID3_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ARID3_train_sequences.csv",
+    "expected_bytes": 6774263
+  },
+  {
+    "path": "chapter_03_dna/ARID3_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ARID3_valid_sequences.csv",
+    "expected_bytes": 967758
+  },
+  {
+    "path": "chapter_03_dna/ATF2_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ATF2_test_sequences.csv",
+    "expected_bytes": 1647385
+  },
+  {
+    "path": "chapter_03_dna/ATF2_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ATF2_train_sequences.csv",
+    "expected_bytes": 5792381
+  },
+  {
+    "path": "chapter_03_dna/ATF2_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ATF2_valid_sequences.csv",
+    "expected_bytes": 827581
+  },
+  {
+    "path": "chapter_03_dna/BACH1_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/BACH1_test_sequences.csv",
+    "expected_bytes": 2075843
+  },
+  {
+    "path": "chapter_03_dna/BACH1_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/BACH1_train_sequences.csv",
+    "expected_bytes": 7299293
+  },
+  {
+    "path": "chapter_03_dna/BACH1_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/BACH1_valid_sequences.csv",
+    "expected_bytes": 1042793
+  },
+  {
+    "path": "chapter_03_dna/CTCF_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/CTCF_test_sequences.csv",
+    "expected_bytes": 3717532
+  },
+  {
+    "path": "chapter_03_dna/CTCF_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/CTCF_train_sequences.csv",
+    "expected_bytes": 13071805
+  },
+  {
+    "path": "chapter_03_dna/CTCF_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/CTCF_valid_sequences.csv",
+    "expected_bytes": 1867407
+  },
+  {
+    "path": "chapter_03_dna/ELK1_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ELK1_test_sequences.csv",
+    "expected_bytes": 620512
+  },
+  {
+    "path": "chapter_03_dna/ELK1_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ELK1_train_sequences.csv",
+    "expected_bytes": 2181131
+  },
+  {
+    "path": "chapter_03_dna/ELK1_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ELK1_valid_sequences.csv",
+    "expected_bytes": 311413
+  },
+  {
+    "path": "chapter_03_dna/GABPA_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/GABPA_test_sequences.csv",
+    "expected_bytes": 674143
+  },
+  {
+    "path": "chapter_03_dna/GABPA_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/GABPA_train_sequences.csv",
+    "expected_bytes": 2369773
+  },
+  {
+    "path": "chapter_03_dna/GABPA_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/GABPA_valid_sequences.csv",
+    "expected_bytes": 338453
+  },
+  {
+    "path": "chapter_03_dna/MAX_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/MAX_test_sequences.csv",
+    "expected_bytes": 1548491
+  },
+  {
+    "path": "chapter_03_dna/MAX_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/MAX_train_sequences.csv",
+    "expected_bytes": 5444749
+  },
+  {
+    "path": "chapter_03_dna/MAX_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/MAX_valid_sequences.csv",
+    "expected_bytes": 777919
+  },
+  {
+    "path": "chapter_03_dna/REST_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/REST_test_sequences.csv",
+    "expected_bytes": 551287
+  },
+  {
+    "path": "chapter_03_dna/REST_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/REST_train_sequences.csv",
+    "expected_bytes": 1937813
+  },
+  {
+    "path": "chapter_03_dna/REST_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/REST_valid_sequences.csv",
+    "expected_bytes": 276745
+  },
+  {
+    "path": "chapter_03_dna/SRF_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/SRF_test_sequences.csv",
+    "expected_bytes": 1665091
+  },
+  {
+    "path": "chapter_03_dna/SRF_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/SRF_train_sequences.csv",
+    "expected_bytes": 5854774
+  },
+  {
+    "path": "chapter_03_dna/SRF_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/SRF_valid_sequences.csv",
+    "expected_bytes": 836494
+  },
+  {
+    "path": "chapter_03_dna/ZNF24_test_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ZNF24_test_sequences.csv",
+    "expected_bytes": 1547263
+  },
+  {
+    "path": "chapter_03_dna/ZNF24_train_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ZNF24_train_sequences.csv",
+    "expected_bytes": 5439973
+  },
+  {
+    "path": "chapter_03_dna/ZNF24_valid_sequences.csv",
+    "url": "https://assets.deep-learning-for-biology.com/dna/datasets/ZNF24_valid_sequences.csv",
+    "expected_bytes": 777053
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/RELEASE_v1.txt",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/RELEASE_v1.txt",
+    "expected_bytes": 67
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/mapping/README.md",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/mapping/README.md",
+    "expected_bytes": 422
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/mapping/ddi_description.csv.gz",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/mapping/ddi_description.csv.gz",
+    "expected_bytes": 39097144
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/mapping/nodeidx2drugid.csv.gz",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/mapping/nodeidx2drugid.csv.gz",
+    "expected_bytes": 20899
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/processed/data_processed",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/processed/data_processed",
+    "expected_bytes": 34174268
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/raw/edge.csv.gz",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/raw/edge.csv.gz",
+    "expected_bytes": 2810105
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/raw/num-edge-list.csv.gz",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/raw/num-edge-list.csv.gz",
+    "expected_bytes": 52
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/raw/num-node-list.csv.gz",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/raw/num-node-list.csv.gz",
+    "expected_bytes": 49
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/split/target/test.pt",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/split/target/test.pt",
+    "expected_bytes": 3888772
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/split/target/train.pt",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/split/target/train.pt",
+    "expected_bytes": 18156422
+  },
+  {
+    "path": "chapter_04_graphs/ogbl_ddi/split/target/valid.pt",
+    "url": "https://assets.deep-learning-for-biology.com/graphs/datasets/ogbl_ddi/split/target/valid.pt",
+    "expected_bytes": 3998900
+  },
+  {
+    "path": "chapter_06_localization/images.npy",
+    "url": "https://assets.deep-learning-for-biology.com/localization/datasets/images.npy",
+    "expected_bytes": 45383680000
+  },
+  {
+    "path": "chapter_06_localization/labels.npy",
+    "url": "https://assets.deep-learning-for-biology.com/localization/datasets/labels.npy",
+    "expected_bytes": 40071851
+  }
+]
