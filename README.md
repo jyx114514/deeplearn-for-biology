@@ -11,6 +11,8 @@
 
 [学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/protein-language-tasks.html)
 
+更多内容待人工核查
+
 ### 下载脚本
 
 download文件夹中的脚本提供讲解html中所用数据集的一键下载
