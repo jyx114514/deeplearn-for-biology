@@ -9,7 +9,7 @@
 
 这部分中主要是对Deep Learning for Biology Harness AI to Solve Real-World Biology Problems 原书的翻译，以及用pytorch+transformers对原书代码的改写，部分代码的修正。为了更好的学习代码去除了原书配套的依赖，并补写注释
 
-[学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/protein-language-tasks.html)
+[学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/part2-protein-language-tasks.html)
 
 更多内容待人工核查
 
