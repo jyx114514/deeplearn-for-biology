@@ -11,7 +11,12 @@
 
 [学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/part2-protein-language-tasks.html)
 
-更多内容待人工核查
+人工未完全核查的部分
+
+[学习 DNA 的逻辑](https://jyx114514.github.io/deeplearn-for-biology/part3-dna-learning.html)
+[用图理解药物相互作用](https://jyx114514.github.io/deeplearn-for-biology/part4-drug-interaction-graphs.html)
+[学习细胞内的空间组织模式](https://jyx114514.github.io/deeplearn-for-biology/part5-cell-spatial-organization.html)
+[生物学深度学习的技巧与诀窍](https://jyx114514.github.io/deeplearn-for-biology/part6-biology-deep-learning-debugging.html)
 
 ### 下载脚本
 
