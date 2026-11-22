@@ -7,7 +7,9 @@
 
 ## part 1
 
-这部分中主要是对Deep Learning for Biology Harness AI to Solve Real-World Biology Problems 原书的翻译，以及用pytorch+transformers对原书代码的改写，以及对原书部分代码，生物特有的数据集泄露等问题（见学习 DNA 的逻辑中的反向互补序列等问题）的修正。并且为了更好的学习代码去除了原书配套的依赖，加入数据如何得到，清洗并补写注释
+这部分中主要是对Deep Learning for Biology Harness AI to Solve Real-World Biology Problems 原书的翻译，以及用pytorch+transformers对原书代码的改写，以及对原书部分代码，生物特有的数据集泄露等问题（见学习 DNA 的逻辑中的反向互补序列等问题）的修正。
+
+并且为了更好的学习代码去除了原书配套的依赖，加入数据集是如何得到，清洗的，并补写注释
 
 [学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/part2-protein-language-tasks.html)
 
