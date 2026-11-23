@@ -3,13 +3,13 @@
 这个仓库会更新一些深度学习在生物学上的应用的讲解html，会参考一些已出版的书籍和文章，html中的所有代码均已经在本地验证，复现请参考里面提供的数据集链接和环境.
 需要一定的生物学和计算机科学的基础知识
 
-**部分工作由ChatGPT和deepseek协助完成**
+**部分工作由ChatGPT，Gemini和deepseek协助完成**
 
-## part 1
+## 第一部分
 
-这部分中主要是对Deep Learning for Biology Harness AI to Solve Real-World Biology Problems 原书的翻译，以及用pytorch+transformers对原书代码的改写，以及对原书部分代码，生物特有的数据集泄露等问题（见学习 DNA 的逻辑中的反向互补序列等问题）的修正。
+这部分中主要是对《Deep Learning for Biology Harness AI to Solve Real-World Biology Problems》 原书的翻译，用pytorch+transformers对原书jax代码的改写，以及对原书部分代码，生物特有的数据集泄露等问题（见学习 DNA 的逻辑中的反向互补序列等问题）的修正。
 
-并且为了更好的学习代码去除了原书配套的依赖，加入数据集是如何得到，清洗的，并补写注释
+并且为了更好的学习，代码去除了原书配套的依赖，加入数据集是如何得到，清洗的，并补写代码注释
 
 [学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/part2-protein-language-tasks.html)
 
