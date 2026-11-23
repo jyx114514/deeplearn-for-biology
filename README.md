@@ -13,7 +13,7 @@
 
 [学习蛋白质的语言：从序列表示到功能预测](https://jyx114514.github.io/deeplearn-for-biology/part2-protein-language-tasks.html)
 
-人工未完全核查的部分（代码是没问题的，语言描述和注释还在审查，补充）
+人工未完全核查的部分（代码是没问题的，语言描述和注释还在审查，补充，讲解图片也在补充）
 
 [学习 DNA 的逻辑](https://jyx114514.github.io/deeplearn-for-biology/part3-dna-learning.html)
 
